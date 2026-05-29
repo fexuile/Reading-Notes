@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f676855eb56e3a2d",
+        "id": "aa892954895c68c1",
         "type": "tabs",
         "children": [
           {
-            "id": "4417268b3a84bd0c",
+            "id": "76879c9b57debf3f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -158,12 +158,12 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +176,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "4417268b3a84bd0c",
+  "active": "76879c9b57debf3f",
   "lastOpenFiles": [
     "阅读笔记.md",
     "README.md",
+    "读书报告.md",
     "Notes.md"
   ]
 }
